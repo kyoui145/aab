@@ -3,7 +3,7 @@
 　https://github.com/kyoui145/GW_git
 　
 ②ローカルに作業用フォルダを作成
-　D:/laravel/GW
+　D:/GW
 　
 ③VisualStudioで②のGWフォルダを開く
 
@@ -14,7 +14,7 @@
 
 ⑥VisualStudioで⑤のGW_gitフォルダを開く
 
-⑦コマンドプロンプトで「D:/laravel/GW/GW_git」まで移動
+⑦コマンドプロンプトで「D:/GW/GW_git」まで移動
 
 ⑧laravelフォルダを作成「create-project laravel/laravel GroupWork」
 
